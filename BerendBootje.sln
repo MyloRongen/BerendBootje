@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerendBootje", "BerendBootje\BerendBootje.csproj", "{A3F4A2EC-8745-49FC-A25E-64AA55828AEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerendBootje_BLL", "BerendBootje_BLL\BerendBootje_BLL.csproj", "{375E8EF6-CBA6-4DF5-A8C8-67F639E0A715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F4A2EC-8745-49FC-A25E-64AA55828AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F4A2EC-8745-49FC-A25E-64AA55828AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F4A2EC-8745-49FC-A25E-64AA55828AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F4A2EC-8745-49FC-A25E-64AA55828AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375E8EF6-CBA6-4DF5-A8C8-67F639E0A715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375E8EF6-CBA6-4DF5-A8C8-67F639E0A715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375E8EF6-CBA6-4DF5-A8C8-67F639E0A715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375E8EF6-CBA6-4DF5-A8C8-67F639E0A715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {363544D4-2BD5-49F5-9E38-ECD28C85DE1D}
+	EndGlobalSection
+EndGlobal
